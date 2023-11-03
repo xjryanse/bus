@@ -1,0 +1,19 @@
+{
+    "name": "xjryanse/bus",
+    "description": "车辆管理板块",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xjryanse",
+            "email": "xjryanse@sina.com"
+        }
+    ],
+    "require": {
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+          "xjryanse\\bus\\": "src/"
+        }
+    }
+}
